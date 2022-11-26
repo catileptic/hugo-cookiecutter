@@ -1,0 +1,7 @@
+baseURL       = "replace_me"
+languageCode  = "en-us"
+title         = "replace_me"
+theme         = "custom_theme"
+
+[params]
+  description   = "replace_me"
